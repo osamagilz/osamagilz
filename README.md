@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @osamagilz
 - 👀 I’m interested in Development and security research report.
-- 🌱 I’m currently learning React JS, Next Js, Laravel.
+- 🌱 I’m cuurently doing development in these tech.. MERN Stack, Laravel, Django.
+-  I’m currently learning Cloud Computing Azure,Google Cloud & AWS .
 
 - 📫 Reach me (hi@osamagill.com)
 
